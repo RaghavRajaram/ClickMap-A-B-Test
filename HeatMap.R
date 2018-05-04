@@ -19,7 +19,7 @@ shareB = shareData[shareData$Group == 'B',]
 
 # Plot heatmap over the image raster for Group A 
 ggplot(shareA, aes(x=x, y=y)) + geom_point() + xlim(0,385) + ylim (0,310) + 
-  annotation_custom(rasterGrob(image2, width=unit(1,"npc"), height=unit(1,"npc")), 
+  annotation_custom(rasterGrob(image1, width=unit(1,"npc"), height=unit(1,"npc")), 
                     -Inf, Inf, -Inf, Inf)+ 
   stat_density_2d(aes(fill = ..level.., alpha = ..level..), geom="polygon")+
   scale_fill_gradient(low = "red", high = "green")
