@@ -17,11 +17,11 @@ Mocked up data representing button clicks on a website, their coordinates and co
 
 - Read and store the images. One for Group A and one for Group B.
 - Separate the data for group A and B to visualize click heatmap.
-- Plot heatmap over the image raster for Group A.
+Plot heatmap over the image raster for Group A.
 
 ![AHeatmap] (https://github.com/RaghavRajaram/ClickMap-A-B-Test/blob/master/shareA.png)
 
-- Plot heatmap over the image raster for Group A.
+Plot heatmap over the image raster for Group A.
 
 ![BHeatmap] (https://github.com/RaghavRajaram/ClickMap-A-B-Test/blob/master/shareB.png)
 
