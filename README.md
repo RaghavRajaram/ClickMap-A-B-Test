@@ -19,11 +19,11 @@ Mocked up data representing button clicks on a website, their coordinates and co
 - Separate the data for group A and B to visualize click heatmap.
 Plot heatmap over the image raster for Group A.
 
-![AHeatmap] (https://github.com/RaghavRajaram/ClickMap-A-B-Test/blob/master/shareA.png)
+![AHeatmap](https://github.com/RaghavRajaram/ClickMap-A-B-Test/blob/master/shareA.png)
 
 Plot heatmap over the image raster for Group A.
 
-![BHeatmap] (https://github.com/RaghavRajaram/ClickMap-A-B-Test/blob/master/shareB.png)
+![BHeatmap](https://github.com/RaghavRajaram/ClickMap-A-B-Test/blob/master/shareB.png)
 
 - Make a subset of 'Share' button clicks.
 - Use statistical methods to test the significance (chisquared, Fisher test etc).
